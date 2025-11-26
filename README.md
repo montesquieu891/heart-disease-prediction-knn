@@ -26,7 +26,7 @@ El análisis de correlación y pruebas de características individuales revelaro
 3.  **Oldpeak:** Depresión del ST inducida por el ejercicio.
 
 ![Matriz de Correlación](images/correlation_heatmap.png)
-*(Asegúrate de guardar tu heatmap en la carpeta images y enlazarlo aquí)*
+*
 
 ## 🧠 Desarrollo del Modelo (KNN)
 
@@ -53,4 +53,5 @@ El modelo final optimizado alcanzó una precisión (accuracy) sólida en el conj
 1. Clonar el repositorio.
 2. Instalar dependencias:
    ```bash
+
    pip install -r requirements.txt
